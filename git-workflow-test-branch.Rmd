@@ -1,0 +1,52 @@
+---
+title: "Untitled"
+author: "Sperow, KC"
+date: "3/3/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## git team workflow
+
+- see some handwritten notes
+
+
+- adding words for changes for the branch 'test_name'
+
+
+- adding more words for the update to appear bc it says january even though i created the test name in march
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
